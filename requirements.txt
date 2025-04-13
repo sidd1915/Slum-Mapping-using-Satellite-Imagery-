@@ -1,0 +1,12 @@
+tensorflow
+numpy
+matplotlib
+Pillow
+seaborn
+tifffile
+streamlit
+rasterio
+shapely
+geopandas
+folium
+streamlit-folium
