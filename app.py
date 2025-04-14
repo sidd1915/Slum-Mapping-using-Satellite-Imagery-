@@ -108,8 +108,8 @@ def map_ground_truth_mask(mask):
     return mapped_mask
 
 
-TIF_DIR = "assets\images"
-MASK_DIR = "assets\masks"
+TIF_DIR = "assets/images"
+MASK_DIR = "assets/masks"
 
 
 features = []
