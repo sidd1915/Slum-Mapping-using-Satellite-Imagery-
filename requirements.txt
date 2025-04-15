@@ -10,3 +10,4 @@ shapely
 geopandas
 folium
 streamlit-folium
+imagecodecs
